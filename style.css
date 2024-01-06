@@ -1,0 +1,16 @@
+#buttonWrapper {
+    text-align: center;
+}
+
+.colorButton {
+    width: 200px;
+    height: 200px
+}
+
+#header {
+    text-align: center;
+}
+
+#result {
+     text-align: center;
+}
